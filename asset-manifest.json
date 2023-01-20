@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tp-langauge-/static/css/main.ad40d0a8.css",
+    "main.js": "/Tp-langauge-/static/js/main.ed82fdb5.js",
+    "static/js/787.e680cd92.chunk.js": "/Tp-langauge-/static/js/787.e680cd92.chunk.js",
+    "static/media/united.svg": "/Tp-langauge-/static/media/united.1e9421c59a31446d970eb4912139fb92.svg",
+    "static/media/france.svg": "/Tp-langauge-/static/media/france.f8fee49ca13622b190b19eaa15abf0ff.svg",
+    "static/media/italy.svg": "/Tp-langauge-/static/media/italy.cc0f8da39663cdf993b272dfe3f9b9ab.svg",
+    "static/media/spain.svg": "/Tp-langauge-/static/media/spain.69a3200e245e14224f8e19ca9c0d891f.svg",
+    "index.html": "/Tp-langauge-/index.html",
+    "static/media/morocco.svg": "/Tp-langauge-/static/media/morocco.016eba6aa57554d9a2575493a73479fb.svg",
+    "main.ad40d0a8.css.map": "/Tp-langauge-/static/css/main.ad40d0a8.css.map",
+    "main.ed82fdb5.js.map": "/Tp-langauge-/static/js/main.ed82fdb5.js.map",
+    "787.e680cd92.chunk.js.map": "/Tp-langauge-/static/js/787.e680cd92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad40d0a8.css",
+    "static/js/main.ed82fdb5.js"
+  ]
+}
